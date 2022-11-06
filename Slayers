@@ -18,7 +18,8 @@ local CoreGui = game:GetService("StarterGui") -- Variable of StarterGui
 	})
     setclipboard("https://www.youtube.com/watch?v=9fDz7JBdTdE")
 	toclipboard("https://www.youtube.com/watch?v=9fDz7JBdTdE")
-            end)
+end)
+        end)
 
 
 -- This file was generated using Luraph Obfuscator v13.4.6
